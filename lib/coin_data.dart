@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 const List<String> currenciesList = [
-  'AUD',
+  'USD',
   'BRL',
   'CAD',
   'CNY',
@@ -21,7 +21,7 @@ const List<String> currenciesList = [
   'RUB',
   'SEK',
   'SGD',
-  'USD',
+  'AUD',
   'ZAR'
 ];
 
@@ -31,7 +31,7 @@ const List<String> cryptoList = [
   'LTC',
 ];
 const coinAPIURL = 'https://rest.coinapi.io/v1/exchangerate';
-const apiKey = "11A6E558-31CD-4282-B877-D2396608869B";
+const apiKey = "4E70B071-8DC7-47EA-BDF8-D2FCC286E138";
 
 class CoinData {
   Future getCoinData(String selectedCurrency) async {
