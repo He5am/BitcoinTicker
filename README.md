@@ -1,16 +1,7 @@
 # bitcointicker
 
-A new Flutter project.
+An application that shows the current price of popular cryptocurrencies.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/81358757/183159682-a99c6323-b83f-42d3-890b-4e09f7dfae30.jpg" width="400" height="800">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
